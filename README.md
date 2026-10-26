@@ -64,6 +64,8 @@ NATHANIEL: worked on the stack display and status messages. He helped show the c
 
 LLANOS: Code I helped edit the code based on the laboratory instructions and worked on the written documentation and also helped answer the module questions and organize the explanations about the program and its operations.
 
+ALMARAY: I worked on the StackModel class. He helped create the main stack operations, such as push, pop, peek, and checking if the stack is empty. His part is important because it handles the data and makes the stack work properly. 
+
 
 
 
